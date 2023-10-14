@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
+.container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Rubik', sans-serif;
+    position: fixed;
+    bottom: 235px;
+    left: 35px;
+    font-size: 18px;
+    color: rgb(243, 239, 234);
+}
+.player{
+    margin-left: 65px;
+    margin-top: 7px;
+}
